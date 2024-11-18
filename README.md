@@ -14,5 +14,4 @@ A list of links for learning.
 - https://doc.rust-lang.org/book/
 - https://rustlings.cool/
 - https://github.com/rust-lang/rustlings
-- derek banas - https://www.youtube.com/watch?v=ygL_xcavzQ4 - https://www.youtube.com/watch?v=ygL_xcavzQ4
-- 
+- derek banas - Rust Tutorial Full Course - https://www.youtube.com/watch?v=ygL_xcavzQ4
