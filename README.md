@@ -10,6 +10,7 @@ A list of links for learning.
 - Golang Tutorial : Go Full Course: https://www.youtube.com/watch?v=YzLrWHZa-Kc&t=31s
 - The Simplest Tech Stack: https://www.youtube.com/watch?v=jeT8m7490Pg&t=48s
 - Golang + HTMX - Creating a Go webserver / HTMX Integration / Template Fragments: https://www.youtube.com/watch?v=F9H6vYelYyU
+- Learn Go with Tests: https://quii.gitbook.io/learn-go-with-tests
 
 # RUST
 - https://doc.rust-lang.org/rust-by-example/
